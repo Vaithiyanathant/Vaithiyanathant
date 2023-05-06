@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+🤝linkedin:linkedin.com/in/vaithiyanathan-t-7145ab253
+📫 How to reach me vaithiynathant.cse2022@citchennai.net
 <p align="left">
-- 🤝linkedin **https://www.linkedin.com/in/vaithiyanathan-t-7145ab253**
-- 📫 How to reach me **vaithiynathant.cse2022@citchennai.net**
 <a href="https://linkedin.com/in/vaithiyanathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaithiyanathan" height="30" width="40" /></a>
 </p>
 
