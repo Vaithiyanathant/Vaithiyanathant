@@ -1,5 +1,5 @@
 
-
+# 💫 About Me:
 #🌱 About myself:
 <br><br>✔️ I am vaithiyanathan , currently pursuing my bachelors from Chennai Institute of technology in Computer and Science Engineering.<br><br>✔️ learning by doing | Python, C, C++ | Tech Enthusiast<br><br>✔️ I am intrested in FULL stack web development .<br><br>✔️ Aspiring SDE from India.
 # Connect with me:
