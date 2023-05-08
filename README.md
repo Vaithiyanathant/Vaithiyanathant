@@ -1,21 +1,16 @@
-### Hi I'm Vaithiyanathan <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30"  />
-<h3 align="center">A passionate developer from India</h3>
+
+# 💫 About Me:
+🌱 About myself:<br><br>✔️ I am vaithiyanathan , currently pursuing my bachelors from Chennai Institute of technology in Computer and Science Engineering.<br><br>✔️ learning by doing | Python, C, C++ | Tech Enthusiast<br><br>✔️ I am intrested in FULL stack web development .<br><br>✔️ Aspiring SDE from India.
 
 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vaithiyanathan&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vaithiyanathan&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaithiyanathan&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=vaithiyanathan&icon=6&color=12)](https://visitcount.itsvg.in)
 
-<h3 align="left">Connect with me:</h3>
-🤝linkedin: linkedin.com/in/vaithiyanathan-t-7145ab253<br>
-📫 How to reach me vaithiynathant.cse2022@citchennai.net
-<p align="left">
-<a href="https://linkedin.com/in/vaithiyanathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaithiyanathan" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaithiyanathant&show_icons=true&locale=en&layout=compact" alt="vaithiyanathant" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaithiyanathant&show_icons=true&locale=en" alt="vaithiyanathant" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaithiyanathant&" alt="vaithiyanathant" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
