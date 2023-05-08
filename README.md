@@ -1,6 +1,6 @@
 
 # 🌱 About Myself:
-<br><br>✔️ I am vaithiyanathan , currently pursuing my bachelors from Chennai Institute of technology in Computer and Science Engineering.<br><br>✔️ learning by doing | Python, C, C++ | Tech Enthusiast<br><br>✔️ I am intrested in FULL stack web development .<br><br>✔️ Aspiring SDE from India.
+✔️ I am vaithiyanathan , currently pursuing my bachelors from Chennai Institute of technology in Computer and Science Engineering.<br><br>✔️ learning by doing | Python, C, C++ | Tech Enthusiast<br><br>✔️ I am intrested in FULL stack web development .<br><br>✔️ Aspiring SDE from India.
 # Connect with me:
 🤝linkedin: linkedin.com/in/vaithiyanathan-t-7145ab253<br>
 📫 How to reach me vaithiynathant.cse2022@citchennai.net
