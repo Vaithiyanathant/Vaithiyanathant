@@ -18,6 +18,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=vaithiyanathan&icon=6&color=12)](https://visitcount.itsvg.in)
 
-<!-- ACTIVITY GRAPH TRACKER -->
-[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=riti2409&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)
+
 
