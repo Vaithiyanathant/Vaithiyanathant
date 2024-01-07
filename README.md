@@ -24,57 +24,6 @@
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Skills Table</title>
-</head>
-
-<body>
-
-  <h3 align="left"><b>SKILLS</b></h3>
-
-  <table>
-    <tr>
-      <th>Programming Languages</th>
-      <td>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <th>Development Stacks</th>
-      <td>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <th>Databases</th>
-      <td>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <th>Tools/Platforms</th>
-      <td>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,github,gitlab,replit,docker,figma,idea,eclipse,vscode,visualstudio,webflow,netlify,vercel" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-</body>
 
 </html>
 
