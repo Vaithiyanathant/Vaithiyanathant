@@ -56,7 +56,7 @@
       <th>Tools/Platforms</th>
       <td>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,github,gitlab,replit,docker,figma,idea,eclipse,vscode,visualstudio,webflow,netlify,vercel,androidstudio,Selenium" />
+          <img src="https://skillicons.dev/icons?i=git,github,gitlab,replit,docker,figma,idea,eclipse,vscode,visualstudio,webflow,netlify,vercel,androidstudio,se" />
         </a>
       </td>
     </tr>
