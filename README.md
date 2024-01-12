@@ -3,6 +3,7 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm VAITHIYANATHAN</h1>
 
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=A+Passionate+Developer+From+India;Aspiring+Full+Stack+Web+Developer;Computer+Science+Undergraduate;Aspiring+Software+Developer+Engineer)](https://git.io/typing-svg)
 
 <h1>🌱 About Myself:</h1>
