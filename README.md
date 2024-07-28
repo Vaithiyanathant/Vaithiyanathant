@@ -34,42 +34,208 @@
   <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" height="20" width="100%">
 
 <br>
+<br>
+<h3 align="left"><b>SKILLS</b></h3>
+<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse;">
+  <tr>
+    <th align="left" style="background-color: #f2f2f2;">Programming Languages</th>
+    <td align="center" width="96" style="background-color: #ffffff;">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96" style="background-color: #f2f2f2;">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96" style="background-color: #ffffff;">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96" style="background-color: #f2f2f2;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cpp" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96" style="background-color: #ffffff;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c" />
+      </a>
+      <br>C
+    </td>
+  </tr>
+  <tr>
+    <th align="left" style="background-color: #ffffff;">Development Stacks</th>
+    <td align="center" width="96" style="background-color: #f2f2f2;">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96" style="background-color: #ffffff;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96" style="background-color: #f2f2f2;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=css" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96" style="background-color: #ffffff;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96" style="background-color: #f2f2f2;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mui" />
+      </a>
+      <br>Material-UI
+    </td>
+    <td align="center" width="96" style="background-color: #ffffff;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+  </tr>
+  <tr>
+    <th align="left" style="background-color: #f2f2f2;">Databases</th>
+    <td align="center" width="96" style="background-color: #ffffff;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mongodb" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96" style="background-color: #f2f2f2;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96" style="background-color: #ffffff;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postgresql" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96" style="background-color: #f2f2f2;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=firebase" />
+      </a>
+      <br>Firebase
+    </td>
+  </tr>
+  <tr>
+    <th align="left" style="background-color: #ffffff;">Tools/Platforms</th>
+    <td align="center" width="96" style="background-color: #f2f2f2;">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96" style="background-color: #ffffff;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96" style="background-color: #f2f2f2;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=gitlab" />
+      </a>
+      <br>GitLab
+    </td>
+    <td align="center" width="96" style="background-color: #ffffff;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=replit" />
+      </a>
+      <br>Replit
+    </td>
+    <td align="center" width="96" style="background-color: #f2f2f2;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96" style="background-color: #ffffff;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=figma" />
+      </a>
+      <br>Figma
+    </td>
+  </tr>
+  <tr>
+    <th align="left" style="background-color: #f2f2f2;"></th>
+    <td align="center" width="96" style="background-color: #ffffff;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=idea" />
+      </a>
+      <br>IntelliJ IDEA
+    </td>
+    <td align="center" width="96" style="background-color: #f2f2f2;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=eclipse" />
+      </a>
+      <br>Eclipse
+    </td>
+    <td align="center" width="96" style="background-color: #ffffff;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode" />
+      </a>
+      <br>VS Code
+    </td>
+    <td align="center" width="96" style="background-color: #f2f2f2;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=visualstudio" />
+      </a>
+      <br>Visual Studio
+    </td>
+    <td align="center" width="96" style="background-color: #ffffff;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=webflow" />
+      </a>
+      <br>Webflow
+    </td>
+    <td align="center" width="96" style="background-color: #f2f2f2;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=netlify" />
+      </a>
+      <br>Netlify
+    </td>
+  </tr>
+  <tr>
+    <th align="left" style="background-color: #ffffff;"></th>
+    <td align="center" width="96" style="background-color: #f2f2f2;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vercel" />
+      </a>
+      <br>Vercel
+    </td>
+    <td align="center" width="96" style="background-color: #ffffff;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=androidstudio" />
+      </a>
+      <br>Android Studio
+    </td>
+    <td align="center" width="96" style="background-color: #f2f2f2;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=selenium" />
+      </a>
+      <br>Selenium
+    </td>
+    <td align="center" width="96" style="background-color: #ffffff;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=idea" />
+      </a>
+      <br>IntelliJ IDEA
+    </td>
+  </tr>
+</table>
+<br>
 
-  <h3 align="left"><b>SKILLS</b></h3>
-  <table>
-    <tr>
-      <th>Programming Languages</th>
-      <td>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=c,cpp,python,java,dart,js" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <th>Development Stacks</th>
-      <td>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,mui,tailwind" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <th>Databases</th>
-      <td>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <th>Tools/Platforms</th>
-      <td>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,github,gitlab,replit,docker,figma,idea,eclipse,vscode,visualstudio,webflow,netlify,vercel,androidstudio,se" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+
 <br>
   <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" height="20" width="100%">
 
@@ -90,6 +256,7 @@
     <img src="https://raw.githubusercontent.com/Vaithiyanathant/stats/master/profile-summary-card-output/algolia/4-productive-time.svg" alt="Productive Time">
   </a>
 </div>
+
 
 
 
