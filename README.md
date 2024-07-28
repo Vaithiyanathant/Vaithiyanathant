@@ -32,8 +32,6 @@
 </p>
 <br>
   <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" height="20" width="100%">
-
-<br>
 <br>
 <h3 align="left"><b>SKILLS</b></h3>
 <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse;">
