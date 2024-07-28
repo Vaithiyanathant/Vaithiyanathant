@@ -66,13 +66,28 @@
   </table>
 <br>
   <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" height="20" width="100%">
-<br>
-<br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vaithiyanathant)](https://git.io/streak-stats)
-<br>
-<br>
-  <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" height="20" width="100%">
+[![](https://raw.githubusercontent.com/Vaithiyanathant/stats/master/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Vaithiyanathant/stats/master/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Vaithiyanathant/stats/master/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Vaithiyanathant/stats/master/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Vaithiyanathant/stats/master/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/Vaithiyanathant/stats/master/profile-summary-card-output/algolia/0-profile-details.svg" alt="Profile Details">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/Vaithiyanathant/stats/master/profile-summary-card-output/algolia/1-repos-per-language.svg" alt="Repos Per Language">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/Vaithiyanathant/stats/master/profile-summary-card-output/algolia/2-most-commit-language.svg" alt="Most Commit Language">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/Vaithiyanathant/stats/master/profile-summary-card-output/algolia/3-stats.svg" alt="Stats">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/Vaithiyanathant/stats/master/profile-summary-card-output/algolia/4-productive-time.svg" alt="Productive Time">
+  </a>
+</div>
 
 
 
