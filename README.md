@@ -13,7 +13,7 @@
 </p>
 
 
-<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
   <div style="flex: 1; margin-right: 10px;">
     <h1>🌱 About Myself:</h1>
     <p>✔️ I am Vaithiyanathan, currently pursuing my bachelor's from Chennai Institute of Technology in Computer Science and Engineering.</p>
