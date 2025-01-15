@@ -34,12 +34,6 @@
   <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" height="20" width="100%">
 <br>
 
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/coder-vaithi?ext=contest&theme=dark)](https://leetcode.com/coder-vaithi)
-[![Vaithiyanathan T's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vaithiyanathant&bg_color=000000&color=fdf7fd&line=49f35d&point=fcf7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
 <h3 align="left"><b>SKILLS</b></h3>
 <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse;">
   <tr>
@@ -238,6 +232,19 @@
   </tr>
 </table>
 <br>
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/coder-vaithi?ext=contest&theme=dark)](https://leetcode.com/coder-vaithi)
+[![Vaithiyanathan T's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vaithiyanathant&bg_color=000000&color=fdf7fd&line=49f35d&point=fcf7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+    <a href="https://leetcode.com/coder-vaithi">
+        <img src="https://leetcard.jacoblin.cool/coder-vaithi?ext=contest&theme=dark" alt="Leetcode Stats"/>
+    </a>
+    <br><br>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaithiyanathant&bg_color=000000&color=fdf7fd&line=49f35d&point=fcf7f7&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+    </a>
+</div>
 
 
 
