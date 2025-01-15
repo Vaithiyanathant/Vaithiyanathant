@@ -13,6 +13,25 @@
 </p>
 
 
+<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
+  <div style="flex: 1; margin-right: 10px;">
+    <h1>🌱 About Myself:</h1>
+    <p>✔️ I am Vaithiyanathan, currently pursuing my bachelor's from Chennai Institute of Technology in Computer Science and Engineering.</p>
+    <p>✔️ Learning by doing | Python, C, C++ | Tech Enthusiast</p>
+    <p>✔️ I am interested in FULL stack web development.</p>
+    <p>✔️ Aspiring SDE from India</p>
+    <p>✔️ I love open source</p>
+    <p>📫 How to reach me: <strong>vaithiyanathan30@gmail.com</strong></p>
+  </div>
+
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+    <a href="https://leetcode.com/coder-vaithi">
+      <img src="https://leetcard.jacoblin.cool/coder-vaithi?ext=contest&theme=dark" alt="Leetcode Stats"/>
+    </a>
+  </div>
+</div>
+
+
 
 <h1>🌱 About Myself:</h1>
 
