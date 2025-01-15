@@ -233,8 +233,10 @@
 </table>
 <br>
 
+<!--
 [![Leetcode Stats](https://leetcard.jacoblin.cool/coder-vaithi?ext=contest&theme=dark)](https://leetcode.com/coder-vaithi)
 [![Vaithiyanathan T's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vaithiyanathant&bg_color=000000&color=fdf7fd&line=49f35d&point=fcf7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 
 <div align="center">
     <a href="https://leetcode.com/coder-vaithi">
