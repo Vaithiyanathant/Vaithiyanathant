@@ -36,6 +36,9 @@
 
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/coder-vaithi?ext=contest&theme=dark)](https://leetcode.com/coder-vaithi)
+[![Vaithiyanathan T's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vaithiyanathant&bg_color=000000&color=fdf7fd&line=49f35d&point=fcf7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 <h3 align="left"><b>SKILLS</b></h3>
 <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse;">
